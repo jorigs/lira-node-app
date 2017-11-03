@@ -1,0 +1,18 @@
+{
+  "name": "lira-app-jrigsby",
+  "version": "1.0.0",
+  "description": "lira application using different API calls",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".gitignore"
+  },
+  "author": "JoRigs",
+  "license": "ISC",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
