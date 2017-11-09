@@ -1,18 +1,26 @@
 {
-  "name": "lira-app-jrigsby",
+  "name": "lira-jrigs-app",
   "version": "1.0.0",
-  "description": "lira application using different API calls",
+  "description": "",
   "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ".gitignore"
+    "url": "git+https://github.com/jorigs/lira-node-app.git"
   },
   "author": "JoRigs",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorigs/lira-node-app/issues"
+  },
+  "homepage": "https://github.com/jorigs/lira-node-app#readme",
   "dependencies": {
-    "require": "^2.4.20"
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "require": "^2.4.20",
+    "through2": "^2.0.3",
+    "twitter": "^1.7.1"
   }
 }

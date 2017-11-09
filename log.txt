@@ -1,0 +1,21 @@
+Warning: undefined 
+Usage: node lira.js <command>
+Where: command is one of the following:
+my-tweets
+spotify-this-song <song name here>
+movie-this <movie name here>
+do-what-it-says
+Warning: princess bride
+Usage: node lira.js <command>
+Where: command is one of the following:
+my-tweets
+spotify-this-song <song name here>
+movie-this <movie name here>
+do-what-it-says
+Warning: undefined 
+Usage: node lira.js <command>
+Where: command is one of the following:
+my-tweets
+spotify-this-song <song name here>
+movie-this <movie name here>
+do-what-it-says
